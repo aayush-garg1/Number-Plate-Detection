@@ -1,3 +1,5 @@
+![number_plate _detection_photo](https://github.com/aayush-garg1/Number-Plate-Detection/assets/137367754/f8495665-64ee-4e61-81dd-15bb763a9d9d)
+
 Automatic License Number Plate Detection Using YOLO and EasyOCR
 (PG DBDA - Final Project)
 
